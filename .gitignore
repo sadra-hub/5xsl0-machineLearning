@@ -1,2 +1,15 @@
+# Python
+*.py[cod]
+__pycache__/
+venv/
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
 .DS_Store
 
+# Logs
+*.log
